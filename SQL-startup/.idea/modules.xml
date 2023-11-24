@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SQL-startup.iml" filepath="$PROJECT_DIR$/SQL-startup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../JAVAWeb_projects/springboot-mybatis-quickstart/springboot-mybatis-quickstart/springboot-mybatis-quickstart.iml" filepath="$PROJECT_DIR$/../JAVAWeb_projects/springboot-mybatis-quickstart/springboot-mybatis-quickstart/springboot-mybatis-quickstart.iml" />
+    </modules>
+  </component>
+</project>
